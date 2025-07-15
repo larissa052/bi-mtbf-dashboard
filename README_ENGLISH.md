@@ -243,7 +243,7 @@ This project uses **masked data** and **anonymized structures** to preserve the 
 
 ## 📞 Contact
 
-**LinkedIn:** https://www.linkedin.com/in/larissa-lima-304146112/  
+**LinkedIn:** https://www.linkedin.com/in/larissalima-datascience/ 
 **Email:** soylarissa@gmail.com  
 **GitHub:** larissa052
 
