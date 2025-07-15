@@ -230,7 +230,7 @@ Este projeto utiliza **dados mascarados** e **estruturas anonimizadas** para pre
 
 ## 📞 Contato
 
-**LinkedIn:** https://www.linkedin.com/in/larissa-lima-304146112/
+**LinkedIn:** https://www.linkedin.com/in/larissalima-datascience/
 **Email:** soylarissa@gmail.com
 **GitHub:** larissa052
 
